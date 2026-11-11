@@ -8,3 +8,4 @@ def login(username, password):
 print("Login application started")
 # GitGuard AI webhook integration test
 # GitGuard AI comment testing
+# Testing GitGuard AI automatic PR comment
