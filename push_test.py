@@ -1,0 +1,1 @@
+print("GitGuard AI push scanning test")
