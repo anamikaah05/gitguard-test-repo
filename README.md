@@ -21,3 +21,4 @@ Testing the improved GitHub webhook integration.
 - Database history: Enabled
 
 Test date: 22 November 2026
+Testing GitGuard AI pull request webhook.
