@@ -1,0 +1,3 @@
+# GitGuard AI secret detection test
+
+API_KEY = "ghp_ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
