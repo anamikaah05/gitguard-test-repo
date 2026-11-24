@@ -21,4 +21,5 @@ Testing the improved GitHub webhook integration.
 - Database history: Enabled
 - Testing hosted GitGuard AI - verifying GitHub push webhook.
 -Testing hosted GitGuard AI - verifying GitHub push webhook.
+-Testing GitGuard AI push event after enabling subscriptions.
 Test date: 22 November 2026
