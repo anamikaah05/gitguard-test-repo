@@ -22,4 +22,5 @@ Testing the improved GitHub webhook integration.
 - Testing hosted GitGuard AI - verifying GitHub push webhook.
 -Testing hosted GitGuard AI - verifying GitHub push webhook.
 -Testing GitGuard AI push event after enabling subscriptions.
+-Testing GitGuard AI after scikit-learn update.
 Test date: 22 November 2026
