@@ -19,5 +19,6 @@ Testing the improved GitHub webhook integration.
 - Secret detection: Enabled
 - GitHub Checks: Enabled
 - Database history: Enabled
+- Testing hosted GitGuard AI - verifying GitHub push webhook.
 
 Test date: 22 November 2026
